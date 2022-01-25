@@ -28,10 +28,13 @@ body {
 h1,
 h2,
 h3,
-h4,
 h5,
 h6 {
 	/* font-family: 'Special Elite', cursive; */
+}
+
+h4{
+    line-height: 36px;
 }
 
 a {
@@ -886,7 +889,6 @@ fieldset {
     display: block;
     max-width: 100%;
     height: auto;
-    margin-bottom: 600px;
 }
 
 
